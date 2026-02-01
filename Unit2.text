@@ -10,3 +10,6 @@ Key Features of Gists:
 4. Embedding : Gists can be embedded into websites or blogs, making them a great tool for sharing code examples in tutorials or documentation.
 5.  Markdown Support : 
 6. Collaboration:
+
+Wikis :
+Every repository on GitHub.com comes equipped with a section for hosting documentation, called a wiki. You can use your repository's wiki to share long-form content about your project, such as how to use it, how you designed it, or its core principles. While a README file quickly tells what your project can do, you can use a wiki to provide additional documentation.
